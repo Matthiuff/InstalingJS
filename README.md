@@ -3,6 +3,7 @@ The first automatic script for Insta.ling
 
 # How it works
 It is based on retrieving words from the page code and substituting them in the text field
+JS module by PatPsychoX
 
 # How to use
 soon
